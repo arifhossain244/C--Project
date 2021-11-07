@@ -1,0 +1,7 @@
+E:\IsDB\C#\Works\Evidance_02\Evidance_03\bin\Debug\Evidance_03.exe.config
+E:\IsDB\C#\Works\Evidance_02\Evidance_03\bin\Debug\Evidance_03.exe
+E:\IsDB\C#\Works\Evidance_02\Evidance_03\bin\Debug\Evidance_03.pdb
+E:\IsDB\C#\Works\Evidance_02\Evidance_03\obj\Debug\Evidance_03.csproj.AssemblyReference.cache
+E:\IsDB\C#\Works\Evidance_02\Evidance_03\obj\Debug\Evidance_03.csproj.CoreCompileInputs.cache
+E:\IsDB\C#\Works\Evidance_02\Evidance_03\obj\Debug\Evidance_03.exe
+E:\IsDB\C#\Works\Evidance_02\Evidance_03\obj\Debug\Evidance_03.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidance05", "Evidance05\Evidance05.csproj", "{2F82798A-C531-465A-A247-19EBADAEF4CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidance_06", "Evidance_06\Evidance_06.csproj", "{0EB83075-6778-4432-8656-3A743450DF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F82798A-C531-465A-A247-19EBADAEF4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F82798A-C531-465A-A247-19EBADAEF4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F82798A-C531-465A-A247-19EBADAEF4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F82798A-C531-465A-A247-19EBADAEF4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB83075-6778-4432-8656-3A743450DF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB83075-6778-4432-8656-3A743450DF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB83075-6778-4432-8656-3A743450DF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB83075-6778-4432-8656-3A743450DF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A5240D-93AD-4C70-A74B-61DA8017F52B}
+	EndGlobalSection
+EndGlobal
